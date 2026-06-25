@@ -82,3 +82,4 @@ NOTION_DATABASE_ID=노션 Todo DB ID
 | property not found | DB 속성 이름 다름 | Name, Date, Done, Important, Order 확인 |
 | Unauthorized | Token 오류 | Notion Integration Secret 다시 확인 |
 | 화면은 뜨는데 저장 안 됨 | 환경변수/DB 권한 문제 | Vercel 로그 확인 |
+redeploy test
